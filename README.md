@@ -4,9 +4,9 @@
 </div>
 <div align="center">
   <p>
-    <img src="https://komarev.com/ghpvc/?username=deekshith-b48&style=for-the-badge&color=blueviolet" alt="profile views"/>
+    <img src="https://komarev.com/ghpvc/?username=SURYAxO7&style=for-the-badge&color=blueviolet" alt="profile views"/>
     <a href="https://github.com/SURYAxO7">
-      <img src="https://img.shields.io/github/followers/deekshith-b48?color=10b981&logo=github&style=for-the-badge" alt="followers"/>
+      <img src="https://img.shields.io/github/followers/SURYAxO7?color=10b981&logo=github&style=for-the-badge" alt="followers"/>
     </a>
   </p>
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A177FE&center=true&vCenter=true&width=600&height=70&lines=Web3+Developer;Full-Stack+Engineer;AI+Tools+Specialist;Always+Innovating+%F0%9F%94%A5" alt="Typing SVG" />
