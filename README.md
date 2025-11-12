@@ -1,5 +1,10 @@
 hi there👋🏻
 
+<div>
+<div align="center">
+  <img src="(https://github.com/user-attachments/assets/41628c11-82f9-42ef-b539-14856eac416a)" alt="Developer Animation" width="100%" style="max-width:900px; border-radius: 8px; margin-top: 16px;"/>
+</div>
+
 # 💫 About Me:
 💻 I'm currently working on:<br>->Building data dashboards and insight-driven reports using <br>    Power BI, SQL, and Python📊<br>🤝I'm looking to collaborate on:<br>->Data analytics projects, business intelligence<br>   dashboards, and open datasets that uncover hidden insights📈<br>🧠I'm currently learning:<br>->Advanced SQL, data storytelling, and predictive analytics<br>    using Python (Pandas, NumPy, Matplotlib)📚<br>💬Ask me about:<br>->ETL pipelines, data visualization, Power BI dashboards, and automating<br>    reports with Python⚙️<br>⚡️Fun fact:<br>->I love turning messy datasets into stories that make business sense🚀
 
