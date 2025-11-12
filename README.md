@@ -5,7 +5,7 @@
 <div align="center">
   <p>
     <img src="https://komarev.com/ghpvc/?username=deekshith-b48&style=for-the-badge&color=blueviolet" alt="profile views"/>
-    <a href="https://github.com/deekshith-b48?tab=followers">
+    <a href="https://github.com/SURYAxO7">
       <img src="https://img.shields.io/github/followers/deekshith-b48?color=10b981&logo=github&style=for-the-badge" alt="followers"/>
     </a>
   </p>
