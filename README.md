@@ -11,8 +11,9 @@
   </p>
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A177FE&center=true&vCenter=true&width=600&height=70&lines=Web3+Developer;Full-Stack+Engineer;AI+Tools+Specialist;Always+Innovating+%F0%9F%94%A5" alt="Typing SVG" />
 </div>
-# 💫 About Me:
-💻 I'm currently working on:<br>->Building data dashboards and insight-driven reports using <br>Power BI, SQL, and Python📊<br>🤝I'm looking to collaborate on:<br>->Data analytics projects, business intelligence<br>   dashboards, and open datasets that uncover hidden insights📈<br>🧠I'm currently learning:<br>->Advanced SQL, data storytelling, and predictive analytics<br>    using Python (Pandas, NumPy, Matplotlib)📚<br>💬Ask me about:<br>->ETL pipelines, data visualization, Power BI dashboards, and automating<br>    reports with Python⚙️<br>⚡️Fun fact:<br>->I love turning messy datasets into stories that make business sense🚀
+
+  # 💫 About Me:
+💻 I'm currently working on:<br>->Building data dashboards and insight-driven reports using <br>   Power BI, SQL, and Python📊<br>🤝I'm looking to collaborate on:<br>->Data analytics projects, business intelligence<br>   dashboards, and open datasets that uncover hidden insights📈<br>🧠I'm currently learning:<br>->Advanced SQL, data storytelling, and predictive analytics<br>    using Python (Pandas, NumPy, Matplotlib)📚<br>💬Ask me about:<br>->ETL pipelines, data visualization, Power BI dashboards, and automating<br>    reports with Python⚙️<br>⚡️Fun fact:<br>->I love turning messy datasets into stories that make business sense🚀
 
 
 ## 🌐 Socials:
@@ -21,7 +22,7 @@
 <div align="center">
   <h3>🐍 Contribution Snake Game</h3>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deekshith-b48/deekshith-b48/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SURYAxO7/deekshith-b48/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deekshith-b48/deekshith-b48/output/github-contribution-grid-snake-dark.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/deekshith-b48/deekshith-b48/output/github-contribution-grid-snake-dark.svg">
   </picture>
