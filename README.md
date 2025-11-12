@@ -1,11 +1,5 @@
 hi there👋🏻
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,12,24,30&height=300&section=header&text=Deekshith%20B%20Gowda&fontSize=70&fontAlignY=35&desc=Web3%20Developer%20|%20Full-Stack%20Engineer%20|%20AI%20Tools%20Specialist&descSize=30&descAlignY=55" />
-</div>
 
-<div align="center">
-  <img src="https://pin.it/52vXtiCcN" alt="Developer Animation" width="100%" style="max-width:900px; border-radius: 8px; margin-top: 16px;"/>
-</div>
 # 💫 About Me:
 💻 I'm currently working on:<br>->Building data dashboards and insight-driven reports using <br>    Power BI, SQL, and Python📊<br>🤝I'm looking to collaborate on:<br>->Data analytics projects, business intelligence<br>   dashboards, and open datasets that uncover hidden insights📈<br>🧠I'm currently learning:<br>->Advanced SQL, data storytelling, and predictive analytics<br>    using Python (Pandas, NumPy, Matplotlib)📚<br>💬Ask me about:<br>->ETL pipelines, data visualization, Power BI dashboards, and automating<br>    reports with Python⚙️<br>⚡️Fun fact:<br>->I love turning messy datasets into stories that make business sense🚀
 
