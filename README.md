@@ -2,6 +2,15 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/41628c11-82f9-42ef-b539-14856eac416a" alt="Developer Animation" width="100%" style="max-width:900px; border-radius: 8px; margin-top: 16px;"/>
 </div>
+<div align="center">
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=deekshith-b48&style=for-the-badge&color=blueviolet" alt="profile views"/>
+    <a href="https://github.com/deekshith-b48?tab=followers">
+      <img src="https://img.shields.io/github/followers/deekshith-b48?color=10b981&logo=github&style=for-the-badge" alt="followers"/>
+    </a>
+  </p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A177FE&center=true&vCenter=true&width=600&height=70&lines=Web3+Developer;Full-Stack+Engineer;AI+Tools+Specialist;Always+Innovating+%F0%9F%94%A5" alt="Typing SVG" />
+</div>
 
 # 💫 About Me:
 💻 I'm currently working on:<br>->Building data dashboards and insight-driven reports using <br>    Power BI, SQL, and Python📊<br>🤝I'm looking to collaborate on:<br>->Data analytics projects, business intelligence<br>   dashboards, and open datasets that uncover hidden insights📈<br>🧠I'm currently learning:<br>->Advanced SQL, data storytelling, and predictive analytics<br>    using Python (Pandas, NumPy, Matplotlib)📚<br>💬Ask me about:<br>->ETL pipelines, data visualization, Power BI dashboards, and automating<br>    reports with Python⚙️<br>⚡️Fun fact:<br>->I love turning messy datasets into stories that make business sense🚀
