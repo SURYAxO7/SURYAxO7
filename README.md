@@ -2,7 +2,7 @@ hi there👋🏻
 
 <div>
 <div align="center">
-  <img src="(https://github.com/user-attachments/assets/41628c11-82f9-42ef-b539-14856eac416a)" alt="Developer Animation" width="100%" style="max-width:900px; border-radius: 8px; margin-top: 16px;"/>
+  <img src="https://github.com/user-attachments/assets/41628c11-82f9-42ef-b539-14856eac416a" alt="Developer Animation" width="100%" style="max-width:900px; border-radius: 8px; margin-top: 16px;"/>
 </div>
 
 # 💫 About Me:
